@@ -2,9 +2,13 @@
 
 ### 👋 Hi, I'm Noor!
 
-I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI for NLP and Imaging**. My experience in NLP spans various domains, from **Large Language Models (LLM), NLP, transformers, and Sentiment Analysis to building Transformer-based chatbots. In computer vision I have experience of Effective Feature learning through Autoencoders, synthetic data generation Using GAN, and image segmentation using the Unet model, leveraging both spectral-spatial features.**
+I'm a passionate **AI Engineer** with a focus on **Generative AI for NLP and Imaging**. My experience in NLP spans various domains, from **Large Language Models (LLM), NLP, transformers, and Sentiment Analysis to building Transformer-based chatbots. In computer vision I have experience of Effective Feature learning through Autoencoders, synthetic data generation Using GAN, and image segmentation using the Unet model, leveraging both spectral-spatial features.**
 
 #### 🔬 Current Projects:
+  - **Deep Reinforcement Learning Based Agent for Optimization Smart Buildings Energy** Deleoped a PPO Based DRL agent that uses current building situation like temperature, occupancy, and weather condition and control the building HVAC
+    system with optimized comfort and energy usage.
+  -**AI-Powered Valve Control System for Building HVAC** •	Developed an LSTM model using TensorFlow to predict future temperatures based on historical sensor data. Preprocessed and analyzed BMS system data to enhance model performance.      Integrated the model with HVAC control to optimize valve positions for improved efficiency.
+- **Invoice Documents Visual QA Assistant**: Developing an end-to-end model that understand invoice images and answer questions, like what is the invoice number, date etc. 
 - **Transformer-based chatbot for PDF**: Developing chatbot using a pre-trained transformer with LangChain that can chat with PDF. [Deployed on Spaces]
 - **Transformer-based Research Assitant for Research Catelogue**: Developing chatbot using a pre-trained transformer with LangChain that can chat with PDF.  [Deployed on Spaces]
 - **Generative AI**: Creating synthetic datasets to enhance model training.
